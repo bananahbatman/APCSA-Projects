@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=java.lang.String\ mysteryPostFix(java.lang.String)
+comment0.text=\r\n\ \ \ required\ operators\ for\ PreFix\ and\ Post\ are\:\r\n\ \ \ \ \ *,\ /,\ +,\ -,\ %\ and\ ^\ (exponent)\r\n
+comment1.params=input
+comment1.target=java.lang.String\ mysteryPreFix(java.lang.String)
+comment2.params=input
+comment2.target=java.lang.String\ mysteryP(java.lang.String)
+comment3.params=input
+comment3.target=java.lang.String\ mysteryS(java.lang.String)
+comment4.params=input
+comment4.target=java.lang.String\ mystery10(java.lang.String)
+comment4.text=\r\n\ \ \ \ See\ tester\ for\ sample\ input\ -\ output\r\n\ \ \ \ \r\n\ \ \ \ You\ may\ assume\ the\ first\ int\ <\ second\ int.\r\n\ \ \ \ \r\n\ \ \ \ You\ may\ assume\ all\ three\ ints\ will\ be\ greater\ than\ 0\r\n
+comment5.params=input
+comment5.target=java.lang.String\ mysteryC(java.lang.String)
+numComments=6
